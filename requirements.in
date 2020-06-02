@@ -4,4 +4,5 @@ https://control.divio.com/api/v1/apps/serve/aldryn-django/2.2.12.1/c2d1c3a0-4978
 https://control.divio.com/api/v1/apps/serve/aldryn-sso/1.7.0/3ef75ae5-729a-4c44-ac3e-fa5950511e90/aldryn-sso-1.7.0.tar.gz#egg=aldryn-sso==1.7.0
 https://control.divio.com/api/v1/apps/serve/aldryn-wagtail/2.9.0.1/663fc9bb-6c61-4cd2-b6bf-ac8bc7788298/aldryn-wagtail-2.9.0.1.tar.gz#egg=aldryn-wagtail==2.9.0.1
 https://control.divio.com/api/v1/apps/serve/divio-wagtail-home/0.0.4/08f6bf0c-1092-4612-9649-9ab4a9c313c1/divio-wagtail-home-0.0.4.tar.gz#egg=divio-wagtail-home==0.0.4
+https://control.divio.com/api/v1/apps/serve/uwkm-wagtailmenus/2.2.1.1/f574118f-83cd-429e-9870-40d9e00986ee/uwkm-wagtailmenus-2.2.1.1.tar.gz#egg=uwkm-wagtailmenus==2.2.1.1
 # </INSTALLED_ADDONS>
