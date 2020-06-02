@@ -21,7 +21,6 @@ INSTALLED_ADDONS = [
     'aldryn-sso',
     'aldryn-wagtail',
     'divio-wagtail-home',
-    'uwkm-wagtailmenus',
     # </INSTALLED_ADDONS>
 ]
 
