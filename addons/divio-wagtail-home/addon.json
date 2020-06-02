@@ -1,0 +1,6 @@
+{
+    "installed-apps": [
+        "divio_wagtail_home"
+    ],
+    "package-name": "divio-wagtail-home"
+}
