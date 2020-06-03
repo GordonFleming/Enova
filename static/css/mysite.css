@@ -1,0 +1,62 @@
+body{
+    background-color: rgba(192, 196, 161, 0.719);
+    background-image: url(/media/original_images/medicine-5103043.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+/* Footer */
+.footer_look{
+    background: rgb(142, 153, 48);
+    padding: 30px;
+    margin-top: auto;
+}
+.segment-two h3{
+    color: cornsilk;
+    font-size: 22px;
+    text-transform: uppercase;   
+    margin: 10px 0;
+    white-space: nowrap;
+}
+.segment-two h3:before{
+    content: '|';
+    color: rgb(191, 209, 28);
+    padding-right: 10px;
+}
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-two ul li{
+    border-bottom: 2px solid rgb(191, 209, 28);
+    line-height: 25px;
+    padding-bottom: 3px;
+}
+.segment-two ul li a{
+    color: white;
+}
+.segment-three h3{
+    color: cornsilk;
+    font-size: 22px;
+    text-transform: uppercase;   
+    margin: 10px 0;
+}
+.segment-three h3:before{
+    content: '|';
+    color: rgb(191, 209, 28);
+    padding-right: 10px;
+}
+.segment-three a{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 30%;
+}
+.segment-four h5{
+    margin-top: 30px;
+}
