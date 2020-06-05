@@ -9,9 +9,6 @@ ehthumbs.db
 Thumbs.db
 *~
 
-#Workspace
-/EnoveWorkspace.code-workspace
-
 # Python
 *.pyc
 *.pyo
