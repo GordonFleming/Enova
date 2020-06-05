@@ -45,7 +45,7 @@ aldryn_addons.settings.load(locals())
 # for guidance on managing these settings.
 
 INSTALLED_APPS.extend([
-    # Extend the INSTALLED_APPS setting by listing additional applications here
+    'flex',
 ])
 
 # To see the settings that have been applied, use the Django diffsettings 
