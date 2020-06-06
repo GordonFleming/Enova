@@ -11,7 +11,7 @@ from streams import blocks
 class FlexPage(Page):
     """Flexibile page class."""
 
-    template = "flex/flex_page.html"
+    template = "flex_page/flex.html"
 
     content = StreamField(
         [

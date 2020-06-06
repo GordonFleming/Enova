@@ -2,18 +2,21 @@
 {% load wagtailcore_tags %}
 
 {% block content %}
-<div class="jumbotron">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 text-center">
-                <h1 class="display-4">{{ self.title }}</h1>
-                <div class="lead">{{ self.subtitle }}</div>
-            </div>
+<div class="container text-center mt-5">
+    <div class = "row">
+        <div class = "col">
+            <h4>{{ self.subtitle }}</h4>
         </div>
     </div>
 </div>
 
-{% for block in page.content %}
-    {% include_block block %}
-{% endfor %}
+<div class="container pr-5 pl-5">
+    <div class="row pr-5 pl-5">
+        <div class="col-md-10 offset-md-1 col-sm-12">
+            {% for block in page.content %}
+                {% include_block block %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
 {% endblock %}

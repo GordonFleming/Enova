@@ -1,6 +1,6 @@
 body{
     background-color: rgba(192, 196, 161, 0.719);
-    background-image: url(https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/medicine-5103043.original.jpg);
+    /* background-image: url(https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/medicine-5103043.original.jpg); */
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -8,7 +8,7 @@ body{
 }
 /* Footer */
 .footer_look{
-    background: rgb(142, 153, 48);
+    background: rgba(178, 179, 137, 0.89);
     padding: 30px;
     margin-top: auto;
 }
@@ -21,7 +21,7 @@ body{
 }
 .segment-two h3:before{
     content: '|';
-    color: rgb(191, 209, 28);
+    color: rgb(218, 206, 40);
     padding-right: 10px;
 }
 .segment-two ul{
@@ -30,7 +30,7 @@ body{
     list-style: none;
 }
 .segment-two ul li{
-    border-bottom: 2px solid rgb(191, 209, 28);
+    border-bottom: 2px solid rgb(218, 206, 40);
     line-height: 25px;
     padding-bottom: 3px;
 }
@@ -45,7 +45,7 @@ body{
 }
 .segment-three h3:before{
     content: '|';
-    color: rgb(191, 209, 28);
+    color: rgb(218, 206, 40);
     padding-right: 10px;
 }
 .segment-three a{
