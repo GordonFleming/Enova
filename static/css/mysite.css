@@ -1,14 +1,53 @@
 body{
-    background-color: rgba(192, 196, 161, 0.719);
+    background-color: #e5e5e5e1;
+    background-image: linear-gradient(to bottom,#ffffff,#e2dada,#46494cad);
     /* background-image: url(https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/medicine-5103043.original.jpg); */
     background-size: cover;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
+.navbar-expand-lg{
+    background-color: #0a3e72;
+}
+h1{
+    font-family: 'Signika', sans-serif;
+}
+p{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+.btn-success{
+    background-color: rgb(174, 185, 23);
+}
+.btn-success:hover{
+    background-color: rgba(174, 185, 23, 0.603);
+}
+a :hover{
+    color: rgb(218, 206, 40);
+}
+#darker{
+    color: rgb(27, 26, 26);
+}
+/* Contact Form */
+.contact-form {
+    list-style-type: none;
+    padding-left: 0;
+}
+.contact-form li {
+    margin-bottom: 1.5rem;
+}
+.contact-form label {
+    display: block;
+    font-weight: bold;
+}
+.contact-form .helptext {
+    display: block;
+    font-size: 80%;
+}
 /* Footer */
 .footer_look{
-    background: rgba(178, 179, 137, 0.89);
+    background: #46494c;
     padding: 30px;
     margin-top: auto;
 }

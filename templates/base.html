@@ -21,6 +21,7 @@
         {# Global stylesheets #}       
         <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="{% static 'css/mysite.css' %}">
+        <link href="https://fonts.googleapis.com/css2?family=Signika&family=Teko&display=swap" rel="stylesheet">
 
         {% block extra_css %}
             {# Override this in templates to add extra stylesheets #}
@@ -40,9 +41,9 @@
         {% wagtailuserbar %}
         
         <!-- Nav  -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="/">
-                <img src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_enova_logo.original.png" width="30" height="30" alt="">
+                <img src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_enova_logo.original.png" width="80" height="80" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -104,7 +105,7 @@
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12 segment-four">
                     <h5>© Enova Enterprises, 2020</h5>
-                    <p>-All rights reserved</p>
+                    <p id="darker">-All rights reserved</p>
                     <a href="https://splyce.dev" target="_blank">Designed by Splyce</a>
                 </div>
             </div>
