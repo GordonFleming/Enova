@@ -47,6 +47,7 @@ aldryn_addons.settings.load(locals())
 INSTALLED_APPS.extend([
     'flex',
     'streams',
+    'contact',
 ])
 
 # To see the settings that have been applied, use the Django diffsettings 
