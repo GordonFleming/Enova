@@ -39,6 +39,7 @@ a :hover{
 }
 .contact-form li {
     margin-bottom: 1.5rem;
+    text-align: center;
 }
 .contact-form label {
     display: block;
