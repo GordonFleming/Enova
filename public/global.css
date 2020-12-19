@@ -1,0 +1,53 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    position: relative;
+    background-color: #e5e5e5e1;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.navbar-expand-lg{
+    background-color: #0a3e72;
+}
+ul{
+    text-align: left;
+}
+h1{
+    font-family: 'Signika', sans-serif;
+}
+p{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+.btn-success{
+    background-color: rgb(174, 185, 23);
+}
+.btn-success:hover{
+    background-color: rgba(174, 185, 23, 0.603);
+}
+a :hover{
+    color: rgb(218, 206, 40);
+}
+#darker{
+    color: rgb(27, 26, 26);
+}
+/* Contact Form */
+.contact-form {
+    list-style-type: none;
+    padding-left: 0;
+}
+.contact-form li {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+.contact-form label {
+    display: block;
+    font-weight: bold;
+}
+.contact-form .helptext {
+    display: block;
+    font-size: 80%;
+}
