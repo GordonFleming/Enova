@@ -3,7 +3,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3 col-sm-6 col-xs-12 segment-one">
-                <a href="https://enovaenterprises.co.za/en/"><img src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_enova_logo.original.png" alt="logo" class="img-fluid"></a>
+                <a href="https://enovaenterprises.co.za/en/"><img src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_enova_logo.webp" alt="logo" class="img-fluid"></a>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
                 <h3>Useful Links</h3>

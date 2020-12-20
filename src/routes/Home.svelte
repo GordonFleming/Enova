@@ -1,7 +1,6 @@
 <div class="jumbotron">
-    <h1 class="display-3">Enova Enterprises</h1>
+    <h1 class="display-2">Enova Enterprises</h1>
     <p class="lead">Connecting Africa</p>
-    <hr class="my-4">
 </div>  
 <div class="container-fluid p-5">
     <div class="row">
@@ -20,31 +19,31 @@
                 <!--Slides-->
                 <div class="carousel-inner" role="listbox">
                 <div class="carousel-item active">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_facemask_example2.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_facemask_example2.original.jpg"
                     alt="First slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_facemask_example.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_facemask_example.original.jpg"
                     alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_facemask_example3.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_facemask_example3.original.jpg"
                     alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_facemask_example4.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_facemask_example4.original.jpg"
                     alt="Fourth slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_hats.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_hats.original.jpg"
                     alt="Fifth slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_single_hat.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_single_hat.original.jpg"
                     alt="Sixth slide">
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100 img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_hats_example.original.jpg"
+                    <img class="d-block w-100 img-fluid" src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_hats_example.original.jpg"
                     alt="Seventh">
                 </div>
                 </div>

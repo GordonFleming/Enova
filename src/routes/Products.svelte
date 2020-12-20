@@ -1,8 +1,8 @@
 <div class="container text-center mt-5 pl-4 pr-4">
-    <h1 class="pb-3">FEATURED PRODUCTS & SERVICES</h1>
+    <h1 class="pb-5">FEATURED PRODUCTS & SERVICES</h1>
     <div class="row">
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/wrench.original.png">
+            <i class="fas fa-tools fa-7x"></i>
             <h4 class="pt-3 text-center">General supplies</h4>
             <ul>
                 <li>Cleaning chemicals & products</li>
@@ -12,7 +12,7 @@
             </ul>
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/photograph.original.png">
+            <i class="fas fa-camera fa-7x"></i>
             <h4 class="pt-3">MERCHANDISING</h4>
             <ul>
                 <li>Online demonstrations</li>
@@ -23,7 +23,7 @@
             </ul>
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/user.original.png">
+            <i class="fas fa-user-alt fa-7x"></i>
             <h4 class="pt-3">PERSONALIZED SHOPPING</h4>
             <ul>
                 <li>Grocery</li>
@@ -34,7 +34,7 @@
             </ul>
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/tools-and-utensils.original.png">
+            <i class="fas fa-pencil-ruler fa-7x"></i>
             <h4 class="pt-3">STATIONARY SUPPLIES</h4>
             <ul>
                 <li>Printing</li>
@@ -45,9 +45,9 @@
             </ul>
         </div>
     </div>
-    <div class="row">
+    <div class="row pt-5">
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/factory.original.png">
+            <i class="fas fa-industry fa-7x"></i>
             <h4 class="pt-3">CONSTRUCTION</h4>
             <ul>
                 <li>Tools</li>
@@ -56,7 +56,7 @@
             </ul>
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/time.original.png">
+            <i class="fas fa-shipping-fast fa-7x"></i>
             <h4 class="pt-3">LOGISTICS & PROCUREMENT</h4>
             <ul>
                 <li>Procurement of goods</li>
@@ -66,7 +66,7 @@
             </ul>
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/cool.original.png">
+            <i class="fas fa-tshirt fa-7x"></i>
             <h4 class="pt-3">CLOTHING SUPPLIES</h4>
             <ul>
                 <li>School uniforms</li>
@@ -77,7 +77,7 @@
             </ul>           
         </div>
         <div class="col-3">
-            <img class="img-fluid" src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/print.original.png">
+            <i class="fas fa-print fa-7x"></i>
             <h4 class="pt-3">DIGITAL PRINTING</h4>
             <ul>
                 <li>Print on demand</li>
@@ -87,27 +87,25 @@
             </ul>
         </div>
     </div>
-    <div class="row mt-5">
-        <h1>SERVICE HISTORY</h1>
-        <h5>our past projects-</h5>
-        <h6>Kaziya Musonda</h6>
-        <ul>
-            <li>Procurement and export of building materials to Lusaka, Zambia.</li>
-            <li>Procurement and export of heavy building machinery.</li>
-            <li>Procurement and export of landscaping tools and machinery.</li>
-        </ul>
-        <h6>St John’s College</h6>
-        <ul>
-            <li>Manufacture and digital printing ofbucket hats for Pi-day.</li>
-        </ul>
+    <div class="row mt-5 justify-content-center">
+        <div class="col-6">
+            <h1>SERVICE HISTORY</h1>
+            <h5>our past projects-</h5>
+            <h6>Kaziya Musonda</h6>
+            <ul>
+                <li>Procurement and export of building materials to Lusaka, Zambia.</li>
+                <li>Procurement and export of heavy building machinery.</li>
+                <li>Procurement and export of landscaping tools and machinery.</li>
+            </ul>
+            <h6>St John’s College</h6>
+            <ul>
+                <li>Manufacture and digital printing ofbucket hats for Pi-day.</li>
+            </ul>
+        </div>
     </div>
 </div>
 
 <style>
-    ul{
-        width: 50%;
-        margin: auto;
-    }
     h6{
         padding: 1rem;
     }

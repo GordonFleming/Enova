@@ -1,7 +1,7 @@
 <!-- Nav  -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="/">
-        <img src="https://enova-live-d3cdd1395c1f403893f5d4071b0e-436698d.divio-media.org/images/rsz_enova_logo.original.png" width="80" height="80" alt="">
+        <img src="https://cdn.statically.io/gh/wolfbyne/Enova/d2d5612e/public/images/rsz_enova_logo.webp" width="80" height="80" alt="">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
