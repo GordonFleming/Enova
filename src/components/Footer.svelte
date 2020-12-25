@@ -8,9 +8,9 @@
             <div class="col-md-3 col-sm-6 col-xs-12 segment-two">
                 <h3>Useful Links</h3>
                 <ul>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/products_and_services">Products & Services</a></li>
-                    <li><a href="/contact">Contact Us</a></li>                           
+                    <li><a href="#/about">About</a></li>
+                    <li><a href="#/products_and_services">Products & Services</a></li>
+                    <li><a href="#/contact">Contact Us</a></li>                           
                 </ul>
             </div>
             <div class="col-md-3 col-sm-6 col-xs-12 pl-5 segment-three">
